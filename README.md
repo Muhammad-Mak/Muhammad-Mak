@@ -16,7 +16,7 @@ Welcome to my GitHub! I love building scalable web apps, exploring backend APIs,
 
 ## 🛠️ Tech Stack
 ![Languages](https://skillicons.dev/icons?i=cs,cpp,py,js,ts,sql,matlab)
-![Frameworks](https://skillicons.dev/icons?i=dotnet,angular,flutter)
+![Frameworks](https://skillicons.dev/icons?i=dotnet,angular)
 ![Tools](https://skillicons.dev/icons?i=git,github,azure,visualstudio,vscode,trello,jira,docker)
 
 ---
