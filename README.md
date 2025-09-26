@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Muhammad Nasir Khan
+# Hello 👋 I'm Muhammad Nasir Khan
 
 💻 **Computer Science Graduate | Tech Enthusiast**
 
@@ -15,9 +15,9 @@ Welcome to my GitHub! I love building scalable web apps, exploring backend APIs,
 ---
 
 ## 🛠️ Tech Stack
-![Languages](https://skillicons.dev/icons?i=cs,cpp,py,js,ts,sql,matlab)
+![Languages](https://skillicons.dev/icons?i=cs,cpp,py,js,ts,sqlserver,matlab)
 ![Frameworks](https://skillicons.dev/icons?i=dotnet,angular)
-![Tools](https://skillicons.dev/icons?i=git,github,azure,visualstudio,vscode,trello,jira,docker)
+![Tools](https://skillicons.dev/icons?i=git,github,azure,visualstudio,vscode,atlassian,docker)
 
 ---
 
