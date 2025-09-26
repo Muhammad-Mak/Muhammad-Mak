@@ -2,7 +2,7 @@
 
 💻 **Computer Science Graduate | Tech Enthusiast**
 
-Welcome to my GitHub! I love building scalable web apps, exploring backend APIs, and working with modern frameworks. My journey so far includes real-world projects with **ASP.NET Core, Angular, and SQL Server**, and I’m passionate about solving problems through technology.  
+Welcome to my GitHub! I love building scalable web apps, exploring backend APIs, and working with modern frameworks. Currently I am trying to learn more about QA testing and Product Ownership. My journey so far includes real-world projects with **ASP.NET Core, Angular, and SQL Server**, and I’m passionate about solving problems through technology.  
 
 ---
 
