@@ -18,7 +18,7 @@ Welcome to my GitHub! I love building scalable web apps, exploring backend APIs,
 ![Languages](https://skillicons.dev/icons?i=cs,cpp,py,js,ts,matlab)
 ![Frameworks](https://skillicons.dev/icons?i=dotnet,angular)
 ![Tools](https://skillicons.dev/icons?i=git,github,azure,visualstudio,vscode,docker)
-
+- as well as, sqlserver, jira, trello and more.
 ---
 
 ## 📂 Featured Projects
