@@ -31,7 +31,6 @@ Welcome to my GitHub! I love building scalable web apps, exploring backend APIs,
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Mak&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Mak&layout=compact&theme=tokyonight)
 
 ---
